@@ -42,5 +42,6 @@ Route::get('/master', [homeController::class, 'master']);
 Route::get('/vars', [homeController::class, 'vars']);
 Route::get('/get-topics', [homeController::class, 'get_topics']);
 Route::get('/shop', [homeController::class, 'categores']);
+Route::get('/eeeeee', [homeController::class, 'eeeeeeeeeeeee']);
 
 
