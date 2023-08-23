@@ -15,5 +15,7 @@
     @else
     <p>Переменная меньше 90</p>
     @endif
+    <hr>
+    <x-alert />
 </body>
 </html>
